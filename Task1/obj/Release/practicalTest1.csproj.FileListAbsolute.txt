@@ -1,0 +1,7 @@
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\bin\Release\practicalTest1.exe.config
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\bin\Release\practicalTest1.exe
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\bin\Release\practicalTest1.pdb
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.csproj.AssemblyReference.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.csproj.CoreCompileInputs.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.exe
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.pdb
