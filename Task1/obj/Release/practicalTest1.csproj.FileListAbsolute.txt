@@ -5,3 +5,14 @@ D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlo
 D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.csproj.CoreCompileInputs.cache
 D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.exe
 D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\practicalTest1\obj\Release\practicalTest1.pdb
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\bin\Release\practicalTest1.exe.config
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\bin\Release\practicalTest1.exe
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\bin\Release\practicalTest1.pdb
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\bin\Release\log4net.dll
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\bin\Release\log4net.pdb
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\bin\Release\log4net.xml
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\obj\Release\practicalTest1.csproj.AssemblyReference.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\obj\Release\practicalTest1.csproj.CoreCompileInputs.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\obj\Release\practica.9DFCA650.Up2Date
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\obj\Release\practicalTest1.exe
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\Task1\obj\Release\practicalTest1.pdb
