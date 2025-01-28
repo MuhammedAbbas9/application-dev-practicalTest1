@@ -1,0 +1,10 @@
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\bin\Debug\Task2.exe.config
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\bin\Debug\Task2.exe
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\bin\Debug\Task2.pdb
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.exe
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.pdb
+D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\obj\Debug\Task2.Form1.resources

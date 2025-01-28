@@ -42,9 +42,9 @@
             // 
             this.groupBox1.Controls.Add(this.vScrollBar1);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(21, 39);
+            this.groupBox1.Location = new System.Drawing.Point(12, 51);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(359, 384);
+            this.groupBox1.Size = new System.Drawing.Size(363, 387);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
@@ -59,7 +59,7 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.label1.Location = new System.Drawing.Point(6, 23);
+            this.label1.Location = new System.Drawing.Point(18, 27);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(309, 23);
             this.label1.TabIndex = 1;
@@ -118,6 +118,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
 

@@ -60,6 +60,55 @@ namespace Task2
 
                         this.Controls.Add(listBox);
                         yPosition += 64;
+
+                        listBox.Show();
+                    }
+                }
+
+                else
+                {
+                    MessageBox.Show("File not Found!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error reading file: {ex.Message}");
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+            this.AutoScroll = true;
+
+            string filePath = @"D:\Personal\Learning\colleges\VanierCollege\SoftwareDeveloment\Courses\FourthBlock\ADeve\handson\practicalTest1\v2\Task2\contacts.txt";
+
+            try
+            {
+                if (File.Exists(filePath))
+                {
+                    string[] lines = File.ReadAllLines(filePath);
+                    int yPosition = 49;
+
+                    foreach (string line in lines)
+                    {
+                        ListBox listBox = new ListBox
+                        {
+                            Name = "ListBox_" + yPosition,
+                            Size = new System.Drawing.Size(309, 56),
+                            Location = new System.Drawing.Point(9, yPosition)
+
+                        };
+
+                        listBox.Items.Add(line);
+
+                        
+                        this.Controls.Add(listBox);
+                        listBox.BringToFront();
+                        yPosition += 64;
+
+                      
                     }
                 }
 
